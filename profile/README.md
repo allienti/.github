@@ -23,4 +23,11 @@
   <a href="https://tws.custura.de/" target="_blank">
     <img src="https://cdn.custura.de/art/trane.png" alt="Trane" width="300">
   </a>
+  <br>
+  <a href="https://heroicons.com/#gh-light-mode-only" target="_blank">
+    <img src="https://raw.githubusercontent.com/tailwindlabs/heroicons/master/.github/logo-light.svg" alt="Heroicons" width="300">
+  </a>
+  <a href="https://heroicons.com/#gh-dark-mode-only" target="_blank">
+    <img src="https://raw.githubusercontent.com/tailwindlabs/heroicons/master/.github/logo-dark.svg" alt="Heroicons" width="300">
+  </a>
 </div>
